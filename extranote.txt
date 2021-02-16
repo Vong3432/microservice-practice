@@ -1,0 +1,4 @@
+| ----------------------
+| Get in container tip:
+| ----------------------
+| docker-compose exec listings-service bash
